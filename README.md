@@ -29,6 +29,10 @@ Functionality:
 5.Moderation tools to ensure content quality and discourage misinformation.
 6.Notification system to keep users updated on relevant topics.
 
+
+See Prototypy by Clicking "https://www.figma.com/file/SHOLFgXgOsEkOlpS460e5c/007-mca-MedStack?type=whiteboard&node-id=0%3A1&t=9rEdk1zthKGGscmD-1"  
+
+
 Target Audience:
 1.Patients
 2.Medical students(For educational purpose)
@@ -61,4 +65,4 @@ Best regards,
 Team: 007-MCA(Akshansh,Jatin kumar,Sanchit)
 mail: sharmaakshansh21@gmail.com
 
-
+Website similar to stack overflow for medical Purposes. #synergiahackfest #HackFest1.0
